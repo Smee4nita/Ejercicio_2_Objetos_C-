@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC41F45-08FC-4747-90E3-15940D5BAAB7}|Biblioteca_Escuela\\Biblioteca_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\biblioteca_escuela\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC41F45-08FC-4747-90E3-15940D5BAAB7}|Biblioteca_Escuela\\Biblioteca_Escuela.csproj|solutionrelative:biblioteca_escuela\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Biblioteca_Escuela\\Alumno.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Escuela\\Alumno.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Biblioteca_Escuela\\Alumno.cs",
+              "RelativeToolTip": "Biblioteca_Escuela\\Alumno.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:08:04.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

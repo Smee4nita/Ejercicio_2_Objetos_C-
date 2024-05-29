@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_Escuela", "Biblioteca_Escuela\Biblioteca_Escuela.csproj", "{ECC41F45-08FC-4747-90E3-15940D5BAAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca_Escuela", "Biblioteca_Escuela\Biblioteca_Escuela.csproj", "{ECC41F45-08FC-4747-90E3-15940D5BAAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario_Escuela", "Formulario_Escuela\Formulario_Escuela.csproj", "{EF06D7E9-D91B-4F63-BED6-777CABE92136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ECC41F45-08FC-4747-90E3-15940D5BAAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC41F45-08FC-4747-90E3-15940D5BAAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC41F45-08FC-4747-90E3-15940D5BAAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF06D7E9-D91B-4F63-BED6-777CABE92136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF06D7E9-D91B-4F63-BED6-777CABE92136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF06D7E9-D91B-4F63-BED6-777CABE92136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF06D7E9-D91B-4F63-BED6-777CABE92136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

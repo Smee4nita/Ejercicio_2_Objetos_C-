@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\formulario_escuela\\fromulario_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|solutionrelative:formulario_escuela\\fromulario_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\formulario_escuela\\fromulario_alumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|solutionrelative:formulario_escuela\\fromulario_alumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\formulario_escuela\\fromulario_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|solutionrelative:formulario_escuela\\fromulario_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECC41F45-08FC-4747-90E3-15940D5BAAB7}|Biblioteca_Escuela\\Biblioteca_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\biblioteca_escuela\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC41F45-08FC-4747-90E3-15940D5BAAB7}|Biblioteca_Escuela\\Biblioteca_Escuela.csproj|solutionrelative:biblioteca_escuela\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\formulario_escuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|solutionrelative:formulario_escuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|c:\\users\\admin\\desktop\\ejercicio_2_objetos_c-\\analia_brayotta\\formulario_escuela\\fromulario_alumnos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EF06D7E9-D91B-4F63-BED6-777CABE92136}|Formulario_Escuela\\Formulario_Escuela.csproj|solutionrelative:formulario_escuela\\fromulario_alumnos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Biblioteca_Escuela\\Alumno.cs",
               "RelativeDocumentMoniker": "Biblioteca_Escuela\\Alumno.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Biblioteca_Escuela\\Alumno.cs",
               "RelativeToolTip": "Biblioteca_Escuela\\Alumno.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwDAAAAANAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:08:04.155Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Program.cs",
+              "RelativeDocumentMoniker": "Formulario_Escuela\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Program.cs",
+              "RelativeToolTip": "Formulario_Escuela\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:16:45.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fromulario_Alumnos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario_Escuela\\Fromulario_Alumnos.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.Designer.cs",
+              "RelativeToolTip": "Formulario_Escuela\\Fromulario_Alumnos.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:16:33.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fromulario_Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "RelativeDocumentMoniker": "Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "RelativeToolTip": "Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:13:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fromulario_Alumnos.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.resx",
+              "RelativeDocumentMoniker": "Formulario_Escuela\\Fromulario_Alumnos.resx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.resx",
+              "RelativeToolTip": "Formulario_Escuela\\Fromulario_Alumnos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-29T16:15:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fromulario_Alumnos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "RelativeDocumentMoniker": "Formulario_Escuela\\Fromulario_Alumnos.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Ejercicio_2_Objetos_C-\\Analia_Brayotta\\Formulario_Escuela\\Fromulario_Alumnos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario_Escuela\\Fromulario_Alumnos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:17:47.13Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

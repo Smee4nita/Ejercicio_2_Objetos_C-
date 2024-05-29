@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca_Escuela")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Formulario_Escuela")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa952f9f2d0b893fffbd039a76076acda7de859")]
-[assembly: System.Reflection.AssemblyProductAttribute("Biblioteca_Escuela")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca_Escuela")]
+[assembly: System.Reflection.AssemblyProductAttribute("Formulario_Escuela")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Formulario_Escuela")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
